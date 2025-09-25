@@ -7,5 +7,5 @@ Research and development of a CNC PCB milling machine with the main focus on the
 
 
 ## Technologies Used
-Fluidnc Firmware
-KiCad
+- Fluidnc Firmware
+- KiCad
