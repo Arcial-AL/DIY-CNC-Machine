@@ -13,9 +13,9 @@ Research and development of a CNC PCB milling machine with the main focus on the
 ## Project Timeline
 
 ## Block Diagram
-Electronic
+Electronic <br>
 <img width="853" height="807" alt="Screenshot 2025-11-13 213907" src="https://github.com/user-attachments/assets/672c3b41-053a-4e3d-875f-d2f3ebf76a23" />
-Software
+Software <br>
 <img width="855" height="799" alt="Screenshot 2025-11-13 214224" src="https://github.com/user-attachments/assets/409f27c2-482a-4c00-8684-d8444ee59006" />
 
 ## Technologies Used
